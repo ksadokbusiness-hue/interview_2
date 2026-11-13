@@ -1,0 +1,5 @@
+product,label,unit,currency,price_min,price_max,active
+BRENT,Brut Brent,bbl,USD,50,120,True
+DIESEL,Gasoil ULSD,t,USD,500,1100,True
+JET,Kérosène Jet A-1,t,GBP,450,1000,True
+PROPANE,Propane,t,EUR,300,800,True

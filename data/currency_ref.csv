@@ -1,0 +1,4 @@
+currency,label,rate_min_ccy_per_eur,rate_max_ccy_per_eur
+EUR,Euro,1.0,1.0
+USD,Dollar US,0.95,1.3
+GBP,Livre sterling,0.75,0.95
